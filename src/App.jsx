@@ -276,7 +276,7 @@ No personal data such as name, email, or location is collected.
 
 <button
 onClick={() =>
-window.open("/privacy-policy.html", "_blank")
+window.open("/privacy-policy.html")
 }
 >
 View Full Privacy Policy
